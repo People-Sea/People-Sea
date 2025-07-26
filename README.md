@@ -17,15 +17,8 @@
 
 ### Recommend Project
 
-<div align="center"> 
-  <a href="https://github.com/MineAdmin/MineAdmin">
-    <img align="center" src="https://github-readme-stats-wlrp4x0wa-rickstaa.vercel.app/api/pin/?username=MineAdmin&repo=MineAdmin&amp;theme=dark&amp;border_color=3c4043&show_image=true&description_lines_count=3" height="350" />
-  </a>
-  <a href="https://github.com/MineAdmin/MineAdmin-Vue">
-    <img align="center" src="https://github-readme-stats-wlrp4x0wa-rickstaa.vercel.app/api/pin/?username=MineAdmin&repo=MineAdmin-Vue&amp;theme=dark&amp;border_color=3c4043&show_image=true&description_lines_count=3" height="350" />
-  </a>
-</div>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineadmin&repo=MineAdmin)](https://github.com/mineadmin/MineAdmin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineadmin&repo=MineAdmin-Vue)](https://github.com/mineadmin/MineAdmin-Vue)
 
 ## About me
 [![People-Sea github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=People-Sea&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=People-Sea&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=People-Sea&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=People-Sea&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)
