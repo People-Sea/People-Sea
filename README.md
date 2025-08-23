@@ -29,3 +29,7 @@
 <summary><b>:telescope: 2024 goal</b></summary>
   Learn Golang and Java while participating in more open source projects
 </details>
+<details>
+<summary><b>:telescope: 2025 goal</b></summary>
+  Learn Golang and Java while participating in more open source projects
+</details>
