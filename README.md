@@ -24,11 +24,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=People-Sea&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<details>
+<!-- <details>
 <summary><b>:telescope: 2024 goal</b></summary>
   Learn Golang and Java while participating in more open source projects
 </details>
 <details>
 <summary><b>:telescope: 2025 goal</b></summary>
   Learn Golang and Java while participating in more open source projects
-</details>
+</details> -->
